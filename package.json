@@ -1,0 +1,25 @@
+{
+  "name": "tape-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sampleTests.js",
+  "dependencies": {
+    "faucet": "^0.0.1",
+    "tap-dot": "^1.0.5",
+    "tape": "^4.6.3"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "babelify": "^7.3.0",
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal:rudyoyen/tapeSample.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
